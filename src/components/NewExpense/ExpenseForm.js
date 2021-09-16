@@ -88,7 +88,7 @@ const ExpenseForm = (props) => {
                     <label>Amount</label>
                     <input
                         type="date"
-                        min="2021-01-01"
+                        min="2019-01-01"
                         max="2021-12-31"
                         //two-way binding
                         value={enteredDate}
